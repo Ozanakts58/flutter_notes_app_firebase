@@ -1,16 +1,7 @@
 # flutter_notes_app_firebase
 
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_4](https://user-images.githubusercontent.com/44892139/179222305-a72a5afe-b52d-48ee-82e9-187dd5dba53f.jpg)
+![Screenshot_5](https://user-images.githubusercontent.com/44892139/179222313-19e9320b-b2e5-4b2b-a437-e4ab45a0c552.jpg)
+![Screenshot_6](https://user-images.githubusercontent.com/44892139/179222321-9a291422-dc11-4119-ac7b-fa7c5dce4ccd.jpg)
+![Screenshot_7](https://user-images.githubusercontent.com/44892139/179222331-85229d08-479c-4187-91a7-d65d4aaccd2d.jpg)
